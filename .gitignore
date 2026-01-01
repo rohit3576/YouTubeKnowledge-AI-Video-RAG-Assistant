@@ -1,0 +1,51 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# -----------------------
+# Jupyter / Notebooks
+# -----------------------
+.ipynb_checkpoints/
+
+# -----------------------
+# OS Files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# VS Code
+# -----------------------
+.vscode/
+
+# -----------------------
+# Model / Cache Files
+# -----------------------
+.cache/
+.cache/*
+*.bin
+*.pt
+*.pth
+
+# Hugging Face / Transformers
+hf_cache/
+transformers_cache/
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+
+# -----------------------
+# Temporary Files
+# -----------------------
+tmp/
+temp/
